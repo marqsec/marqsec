@@ -1,7 +1,7 @@
 # 👨‍💻 [MARQSEC] - Analysis and Defense Engine
 
 <p align="center">
-  <img src="URL_GAMBAR_ANDA" alt="MARQSEC Banner" width="100%">
+  <img src="https://github.com/marqsec/marqsec/blob/main/20251206_090202.png" alt="MARQSEC Banner" width="100%">
 </p>
 
 ---
