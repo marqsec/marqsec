@@ -56,27 +56,27 @@
 
 <br/>
 
-### 🔥 Полоса Контрибуций
+### 🔥 Полоса Контрибуций (Streak)
 
 ![](https://github-readme-streak-stats.demolab.com/?user=marqsec&theme=dracula&hide_border=false&date_format=j%20M%5B%20Y%5D)
 
 <br/>
 
-### 💬 Последняя Активность
+### 💬 Ежедневная Активность (Grafik Naik Turun)
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=marqsec&theme=dracula&hide_border=false&area=true&custom_title=Ежедневная+Активность)
+
+<br/>
+
+### 💻 Время Кодирования (Produktivitas)
+
+![](https://wakatime.com/badge/user/marqsec/summary.svg?style=for-the-badge&theme=dracula)
 
 <br/>
 
 ### 🖥️ Топ Языки
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marqsec&theme=dracula&hide_border=false&langs_count=6&layout=compact)
-
-<br/>
-
-### ⏱️ Время Кодирования (WakaTime)
-
-![](https://wakatime.com/badge/user/marqsec/summary.svg?style=for-the-badge&theme=dracula)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=marqsec&icon=9&color=0)](https://visitcount.itsvg.in)
