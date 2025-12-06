@@ -6,7 +6,7 @@
 
 <br>
 
-> 🇷🇺 **[MARQSEC]: Analysis and Defense Engine. A developer focused on pentesting automation and creating tools for defense and attack.**
+> 🗿 **[MARQSEC]: Analysis and Defense Engine. A developer focused on pentesting automation and creating tools for defense and attack.**
 > 
 > *A developer focused on pentesting automation and creating structured tools for exploits.*
 
