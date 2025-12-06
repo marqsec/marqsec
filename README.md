@@ -28,13 +28,13 @@
 
 ---
 
-## 🌐 Социальные Сети и Контакты:
+## 🌐 Социальные Сети dan Контакты:
 [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/marqsec) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:marqlinux@gmail.com)
 
 ---
 
 ## 💻 Технологический Стек:
-### 🖥️ Языки Программирования и Скрипты
+### 🖥️ Языки Программирования dan Скрипты
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 
 ### ⚙️ Фреймворки dan Библиотеки
@@ -48,35 +48,9 @@
 
 ---
 
-# 📊 Статистика GitHub:
+# 📊 Общая Статистика (Obshchaya Statistika - Statistik Global):
 
-### 📈 Общие Данные Разработчика
-
-![](https://github-readme-stats.vercel.app/api?username=marqsec&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&custom_title=Общие+Данные+Разработчика&show=reviews,discussions_started,prs_merged,prs_merged_percentage)
-
-<br/>
-
-### 🔥 Полоса Контрибуций (Streak)
-
-![](https://github-readme-streak-stats.demolab.com/?user=marqsec&theme=dracula&hide_border=false&date_format=j%20M%5B%20Y%5D)
-
-<br/>
-
-### 💬 Ежедневная Активность (График Naik Turun)
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=marqsec&theme=dracula&hide_border=false&area=true&custom_title=Ежедневная+Активность)
-
-<br/>
-
-### 💻 Время Кодирования (Produktivitas)
-
-![](https://wakatime.com/badge/user/marqsec/summary.svg?style=for-the-badge&theme=dracula)
-
-<br/>
-
-### 🖥️ Топ Языки
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=marqsec&theme=dracula&hide_border=false&langs_count=6&layout=compact)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marqsec&theme=dracula)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=marqsec&icon=9&color=0)](https://visitcount.itsvg.in)
