@@ -74,7 +74,8 @@
 
 <br/>
 
-### ⏱️ Время Кодирования (Opsional: Pastikan Anda menautkan akun WakaTime yang benar)
+### ⏱️ Время Кодирования (WakaTime)
+
 ![](https://wakatime.com/badge/user/marqsec/summary.svg?style=for-the-badge&theme=dracula)
 
 ---
