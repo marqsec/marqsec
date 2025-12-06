@@ -1,7 +1,19 @@
 # 👨‍💻 [MARQSEC] - Analysis and Defense Engine
 
 <p align="center">
-  <img src="https://github.com/marqsec/marqsec/blob/main/20251206_090202.png" alt="MARQSEC Banner" width="100%">
+  <img 
+    src="https://raw.githubusercontent.com/marqsec/marqsec/main/20251206_090202.png" 
+    alt="MARQSEC Banner" 
+    width="100%" 
+    style="
+      /* Mencoba Efek Border dan Shadow - TIDAK DIJAMIN BERFUNGSI DI SEMUA TEMPAT */
+      border: 3px solid #14F195; /* Border tipis warna hijau neon/cyan (sesuai tema) */
+      border-radius: 8px; /* Sudut sedikit melengkung */
+      box-shadow: 0 0 10px rgba(20, 241, 149, 0.7); /* Efek glow/shadow */
+      padding: 5px; /* Sedikit padding di dalam border */
+      background-color: #0d1117; /* Latar belakang gelap jika gambar transparan */
+    "
+  />
 </p>
 
 ---
