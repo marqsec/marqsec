@@ -6,7 +6,7 @@
 
 <br>
 
-> 🇷🇺 **[MARQSEC]: Движок быстрого анализа и защиты.**
+> 🇷🇺 **[MARQSEC]: Движок анализа и защиты. Разработчик, фокусирующийся на автоматизации пентестинга и инструментах безопасности.**
 > 
 > *Разработчик, сфокусированный на автоматизации пентестинга и создании структурированных инструментов для эксплойтов.*
 
@@ -52,13 +52,13 @@
 
 ### 📈 Общие Данные Разработчика
 
-![](https://github-readme-stats.vercel.app/api?username=marqsec&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&custom_title=Общие+Данные+Разработчика)
+![](https://github-readme-stats.vercel.app/api?username=marqsec&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&custom_title=Общие+Данные+Разработчика&show=reviews,discussions_started,prs_merged,prs_merged_percentage)
 
 <br/>
 
 ### 🔥 Полоса Контрибуций
 
-![](https://nirzak-streak-stats.vercel.app/?user=marqsec&theme=dracula&hide_border=false)
+![](https://github-readme-streak-stats.demolab.com/?user=marqsec&theme=dracula&hide_border=false&date_format=j%20M%5B%20Y%5D)
 
 <br/>
 
@@ -71,6 +71,11 @@
 ### 🖥️ Топ Языки
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marqsec&theme=dracula&hide_border=false&langs_count=6&layout=compact)
+
+<br/>
+
+### ⏱️ Время Кодирования (Opsional: Pastikan Anda menautkan akun WakaTime yang benar)
+![](https://wakatime.com/badge/user/marqsec/summary.svg?style=for-the-badge&theme=dracula)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=marqsec&icon=9&color=0)](https://visitcount.itsvg.in)
