@@ -84,4 +84,3 @@ A developer focused on pentesting automation and creating structured tools for e
 
 ## 💰 You Can Support Me
 [![Saweria](https://img.shields.io/badge/Saweria-FE8A00?style=for-the-badge&logo=ko-fi&logoColor=white)](https://saweria.co/marqsec)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/marqsec)
