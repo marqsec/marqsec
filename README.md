@@ -6,7 +6,7 @@
 
 <br>
 
-> 🇷🇺 **[MARQSEC]: Движок анализа и защиты. Разработчик, фокусирующийся на автоматизации пентестинга и инструментах безопасности.**
+> 🇷🇺 **[MARQSEC]: Движок быстрого анализа и защиты.**
 > 
 > *Разработчик, сфокусированный на автоматизации пентестинга и создании структурированных инструментов для эксплойтов.*
 
@@ -49,33 +49,10 @@
 ---
 
 # 📊 Статистика GitHub:
-
-### 📈 Общие Данные Разработчика
-
-![](https://github-readme-stats.vercel.app/api?username=marqsec&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&custom_title=Общие+Данные+Разработчика&show=reviews,discussions_started,prs_merged,prs_merged_percentage)
-
+![](https://github-readme-stats.vercel.app/api?username=marqsec&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&custom_title=Общие+Данные+Разработчика)
 <br/>
-
-### 🔥 Полоса Контрибуций (Streak)
-
-![](https://github-readme-streak-stats.demolab.com/?user=marqsec&theme=dracula&hide_border=false&date_format=j%20M%5B%20Y%5D)
-
+![](https://nirzak-streak-stats.vercel.app/?user=marqsec&theme=dracula&hide_border=false)
 <br/>
-
-### 💬 Ежедневная Активность (Grafik Naik Turun)
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=marqsec&theme=dracula&hide_border=false&area=true&custom_title=Ежедневная+Активность)
-
-<br/>
-
-### 💻 Время Кодирования (Produktivitas)
-
-![](https://wakatime.com/badge/user/marqsec/summary.svg?style=for-the-badge&theme=dracula)
-
-<br/>
-
-### 🖥️ Топ Языки
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marqsec&theme=dracula&hide_border=false&langs_count=6&layout=compact)
 
 ---
